@@ -1,10 +1,6 @@
 # 💬 Qartha FinCore - Advanced Financial Intelligence Assistant
 
-An AI-powered conversational agent designe### 🔹 Resource Management System
-![Resource List](resource_list%20(2).png)
-*Comprehensive knowledge base and document management interface*
-
-## 📹 Video Demonstrations financial literacy in the digital age. Built using cutting-edge IBM Watson AI technology and intelligent agent frameworks, this sophisticated system provides multilingual support and comprehensive guidance on UPI transactions, investment strategies, fraud prevention, personal budgeting, and digital financial safety.
+An AI-powered conversational agent designed to revolutionize financial literacy in the digital age. Built using cutting-edge IBM Watson AI technology and intelligent agent frameworks, this sophisticated system provides multilingual support and comprehensive guidance on UPI transactions, investment strategies, fraud prevention, personal budgeting, and digital financial safety.
 
 ![AI Assistant](preview1.png)
 
@@ -35,7 +31,7 @@ Qartha FinCore is an intelligent AI assistant powered by IBM Watson AI that deli
 - **Cloud Object Storage** - Document and resource management
 - **Bearer Token Authentication** - Enterprise security protocols
 
-## � End Users
+## 👥 End Users
 
 - **Financial newcomers** seeking digital literacy
 - **Young professionals** planning their financial future
@@ -114,27 +110,8 @@ Qartha FinCore is an intelligent AI assistant powered by IBM Watson AI that deli
 ### 🔹 Resource Management System
 ![Resource List](resource_list%20(2).png)
 *Comprehensive knowledge base and document management interface*
-*Pre-configured financial literacy questions for immediate assistance*
 
-### 🔹 Live Deployment & Testing
-![Deployment Interface](deployed.png)
-*Real-time agent deployment and interactive testing environment*
-
-### � API Endpoints & Integration
-![API References](endpoints.png)
-*RESTful API endpoints for seamless third-party integration*
-
-### 🔹 Resource Management System
-![Resource List](resource_list.png)
-*Comprehensive knowledge base and document management interface*
-
-## 📹 Video Demonstrations
-
-**🎥 Building Tutorial** - [Watch Step-by-Step Setup](https://github.com/ArshCipher/Qartha-FinCore/wiki)  
-**🎥 Testing & Deployment** - [See Live Demonstration](https://github.com/ArshCipher/Qartha-FinCore/wiki)  
-**� Usage Examples** - [Explore Financial Conversations](https://github.com/ArshCipher/Qartha-FinCore/wiki)
-
-## � How to Run or Deploy
+## 📌 How to Run or Deploy
 
 ### **Step 1: IBM Cloud Setup**
 1. **Sign up** for IBM Cloud Lite: [https://cloud.ibm.com](https://cloud.ibm.com)
@@ -210,7 +187,7 @@ MODEL_ID=ibm/granite-3-3-8b-instruct
 - **Reserve Bank of India**: [https://www.rbi.org.in](https://www.rbi.org.in)
 - **NPCI Official Portal**: [https://www.npci.org.in](https://www.npci.org.in)
 - **LangGraph Documentation**: [https://langchain-ai.github.io/langgraph/](https://langchain-ai.github.io/langgraph/)
-- **Meta Llama Models**: [https://ai.meta.com/llama/](https://ai.meta.com/llama/)
+- **IBM Granite Models**: [https://www.ibm.com/products/watsonx-ai](https://www.ibm.com/products/watsonx-ai)
 
 ## ⚖️ License
 
